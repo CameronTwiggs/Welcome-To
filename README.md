@@ -44,5 +44,7 @@ Hey to who ever may be reading this.
 ### Validation Report
 ![Contact Validation Report](/assignment-screenshots/contact-validated.png)
 
+## CSS Report
+![CSS Validation Report](/assignment-screenshots/css-validated.png)
 
 
