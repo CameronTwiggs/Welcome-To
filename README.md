@@ -20,11 +20,29 @@ Hey to who ever may be reading this.
 - [x] CSS validated?
 
 
-## Home Lighthouse Report
-![Home Lighthouse Report](/lighthouse-screenshots/home-lighthouse.png)
+## Home Reports
 
-## To-Do Lighthouse Report
-![To-Do Lighthouse Report](/lighthouse-screenshots/to-do-lighthouse.png)
+### Lighthouse Report
+![Home Lighthouse Report](/assignment-screenshots/home-lighthouse.png)
+
+### Validation Report
+![Home Validation Report](/assignment-screenshots/home-validated.png)
+
+## To-Do Reports
+
+### Lighthouse Report
+![To-Do Lighthouse Report](/assignment-screenshots/todo-lighthouse.png)
+
+### Validation Report
+![To-Do Validation Report](/assignment-screenshots/todo-validated.png)
  
-## Contact Lighthouse Report
-![Contact Lighthouse Report](/lighthouse-screenshots/contact-lighthouse.png)
+## Contact Reports
+
+### Lighthouse Report
+![Contact Lighthouse Report](/assignment-screenshots/contact-lighthouse.png)
+
+### Validation Report
+![Contact Validation Report](/assignment-screenshots/contact-validated.png)
+
+
+
